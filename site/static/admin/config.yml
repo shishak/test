@@ -82,7 +82,7 @@ collections: # A list of collections the CMS should be able to edit
           
           
           
-      - file: "site/content/portfolio/_index.md"
+      - file: "site/content/values/_index.md"
         label: "Values Page"
         name: "values"
         fields:
